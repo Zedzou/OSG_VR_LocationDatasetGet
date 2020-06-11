@@ -1,0 +1,2 @@
+# OSG_VR_LocationDatasetGet
+在OSG中获取GIS的地面数据，创建路径并进行保存图片及相机的位姿信息
